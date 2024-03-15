@@ -7,6 +7,10 @@
 - Python 3.9
 - Django 3.2
 - SQLite
+- React
+- API
+- JWT
+- Postman
 - 
 ## Запуск проекта
 1. ### Склонируйте репозиторий:
