@@ -41,3 +41,4 @@ python manage.py migrate
 ```
 python manage.py runserver
 ```
+Автор [romatimon](https://github.com/romatimon)
